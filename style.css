@@ -1,0 +1,49 @@
+html {
+    height: 100%;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-image: url("./background.jpg");
+    background-size: cover;
+    font-family: Georgia;
+    font-size: 16px;
+    margin: 15px;
+  }
+  
+  h1, h2 {
+    text-align: center;
+    color: #4aaaa5;
+  }
+  
+  .containter {
+    width: 100%;
+    max-width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+  }
+  
+  .list-group {
+    margin-left: 190px;
+    width: 800px;
+    padding: 90px;
+  }
+
+  #space {
+    margin-top: 15px;
+  }
+  
+  .footer {
+    right: 0;
+    left: 0;
+    bottom: 0;
+    position: absolute;
+    background: #666666;
+    text-align: center;
+    font-size: 15px;
+    color: #4aaaa5;
+    padding: 1rem;
+  }
+  
+  
